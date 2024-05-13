@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83673307245",
+    "project_id": "beatbridge-44dc6",
+    "storage_bucket": "beatbridge-44dc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83673307245:android:f203cda49235d69f12c764",
+        "android_client_info": {
+          "package_name": "com.example.beatbridge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDom3hjZPWV00RHwHIqP0tv1JDSCfzVNRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
